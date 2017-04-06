@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_view_switch_lay"
+    android:layout_width="62dp"
+    android:layout_height="29dp"
+    android:background="@drawable/switch_off" >
+
+    <ImageView
+        android:id="@+id/custom_view_switch_imageView"
+        android:layout_width="31dp"
+        android:layout_height="29dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/switch_icon" />
+
+</RelativeLayout>
