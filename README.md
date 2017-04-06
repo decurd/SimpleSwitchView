@@ -1,7 +1,7 @@
 # SimpleSwitchView
 i-phone style android SwitchView
 
-[linkname](https://tv.kakao.com/embed/player/cliplink/303569384?service=kakao_tv)
+![](.SimpleSwitch.gif)
 
 This is a very simple and easy iPhone-style Android switch view.
 You can use the simple switch style view that you use on the iPhone.
