@@ -1,7 +1,7 @@
 # SimpleSwitchView
 i-phone style android SwitchView
 
-![](.SimpleSwitch.gif)
+![](https://github.com/roemilk/SimpleSwitchView/blob/master/SimpleSwitch.gif)
 
 This is a very simple and easy iPhone-style Android switch view.
 You can use the simple switch style view that you use on the iPhone.
